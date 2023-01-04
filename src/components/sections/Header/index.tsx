@@ -189,7 +189,6 @@ function SiteLogoLink({ title, isTitleVisible, logo }) {
 
 function ListOfLinks({ links, inMobileMenu }) {
         const connectWallet = async (e) => {
-const provider = new ethers.providers.Web3Provider((window as any).ethereum);
         await provider.send('eth_requestAccounts', []);
         const signer = provider.getSigner(); //Wallet data
 
