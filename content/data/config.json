@@ -71,7 +71,6 @@
             },
             {
                 "type": "Link",
-                "label": "Sobre",
                 "url": "/about",
                 "altText": ""
             },
