@@ -145,8 +145,8 @@ sections:
     backgroundSize: full
     title: Apoiamos a +1code!
     text: >+
-      ### Acreditamos em Reprogramar a Quebrada através do ensino tech de
-      qualidade para jovens de baixa renda.&#xA;&#xA;
+      ### **Acreditamos em Reprogramar a Quebrada através do ensino tech de
+      qualidade para jovens de baixa renda.**
 
     actions:
       - type: Link
