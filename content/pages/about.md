@@ -67,7 +67,7 @@ sections:
     variant: variant-c
     colors: colors-d
     title: Nosso Time
-    subtitle: Embaixadores e Advocates
+    subtitle: Advocates and Ambassadors
     people:
       - content/data/team/hilary-ouse.json
       - content/data/team/person-ds2ex1lyh.json
