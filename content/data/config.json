@@ -76,16 +76,6 @@
             },
             {
                 "type": "Link",
-                "label": "Advocates and Ambassadors",
-                "altText": "Advocates and Ambassadors",
-                "url": "/about",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
