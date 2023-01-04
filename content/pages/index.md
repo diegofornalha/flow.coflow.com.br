@@ -29,7 +29,7 @@ sections:
         type: Button
     backgroundImage:
       type: BackgroundImage
-      url: /images/Screenshot_10.png
+      url: /images/Lil Miquela flow blockchain.png
       backgroundSize: cover
       backgroundPosition: top
       backgroundRepeat: no-repeat
