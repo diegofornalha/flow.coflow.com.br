@@ -77,7 +77,7 @@
             {
                 "type": "Link",
                 "label": "Advocates and Ambassadors",
-                "altText": "",
+                "altText": "Advocates and Ambassadors",
                 "url": "/about",
                 "showIcon": false,
                 "icon": "arrowRight",
