@@ -188,7 +188,6 @@ function SiteLogoLink({ title, isTitleVisible, logo }) {
 }
 
 function ListOfLinks({ links, inMobileMenu }) {
-        const connectWallet = async (e) => {
 
 }
 
