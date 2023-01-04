@@ -55,7 +55,7 @@ sections:
   - type: QuoteSection
     colors: colors-c
     quote: |+
-      ## **Conteúdos Mais Recentes Sobre Web3 **
+      ## \*\*Tudo Sobre Web3 \*\*
 
     styles:
       self:
