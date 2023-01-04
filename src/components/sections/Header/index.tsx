@@ -190,6 +190,7 @@ function SiteLogoLink({ title, isTitleVisible, logo }) {
 function ListOfLinks({ links, inMobileMenu }) {
         const connectWallet = async (e) => {
     };
+    
     return links.map((link, index) => (
 <li key={index} onClick={(e) => connectWallet(e)}>
             <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
