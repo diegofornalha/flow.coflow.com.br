@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-b
+    colors: colors-a
     title: OnFlowBr
     subtitle: >-
       Transformando jovens periféricos ou moradores de favela em programadores
