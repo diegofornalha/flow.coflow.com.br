@@ -2,7 +2,6 @@ import * as React from 'react';
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import classNames from 'classnames';
-import { ethers } from 'ethers';
 
 import { Link, Action } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
