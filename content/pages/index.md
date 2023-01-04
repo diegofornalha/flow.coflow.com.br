@@ -10,8 +10,7 @@ sections:
     actions:
       - type: Button
         label: Entrar no Servidor do Discord
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSdLq7-5G8MDD_eMunWjwbPeo2o-JhMI4U2IP6aRN6WwW7kNUg/viewform
+        url: 'https://discord.gg/hT8EpC5mUN '
         style: primary
         iconPosition: right
         icon: arrowRight
