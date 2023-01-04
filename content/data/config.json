@@ -76,16 +76,6 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
-                "altText": "",
-                "url": "https://twitter.com/onflowbr",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "Linkedin",
                 "altText": "",
                 "url": "https://linkedin.com/in/diegofornalha",
