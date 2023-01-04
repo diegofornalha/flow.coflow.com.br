@@ -143,7 +143,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: Apoiamos a +1code trabalhamos o ensino Um a Um.
+    title: Apoiamos a +1code!
     text: >+
       ### Onde você terá acesso a um professor voluntário, com uma a duas aulas
       por semana e suporte diário de nossa equipe.
