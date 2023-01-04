@@ -55,9 +55,7 @@ sections:
   - type: QuoteSection
     colors: colors-c
     quote: |+
-      ## **O Brasil Liderando a Web3**
-
-
+      ## **Conteúdos Mais Recentes Sobre Web3 **
 
     styles:
       self:
