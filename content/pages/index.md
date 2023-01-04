@@ -6,9 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: OnFlowBr
-    subtitle: >-
-      Transformando jovens periféricos ou moradores de favela em programadores
-      GRATUITAMENTE.
+    subtitle: A Melhor Comunidade Brasileira de Construtores Flow Blockchain
     actions:
       - type: Button
         label: Quero ser aluno
