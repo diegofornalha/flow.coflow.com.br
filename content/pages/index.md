@@ -85,6 +85,7 @@ sections:
         icon: arrowRight
     posts:
       - content/pages/blog/o-que-e-flow-blockchain.md
+      - content/pages/blog/protocolo-de-staking-liquido-(stflow)-da-increment.md
     styles:
       self:
         height: auto
