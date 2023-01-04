@@ -72,7 +72,6 @@ sections:
       compartilhar nossas experiências com o mundo.
     people:
       - content/data/team/hilary-ouse.json
-      - content/data/team/person-2vd7ihy77.json
     styles:
       self:
         height: auto
