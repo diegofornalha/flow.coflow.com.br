@@ -31,7 +31,7 @@
             {
                 "type": "Button",
                 "label": "RECEBA TOKENS (Em Breve)",
-                "altText": "GITHUB",
+                "altText": "RECEBA TOKENS (Em Breve)",
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",
