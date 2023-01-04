@@ -191,9 +191,7 @@ function ListOfLinks({ links, inMobileMenu }) {
         const connectWallet = async (e) => {
     };
     
-<li key={index} onClick={(e) => connectWallet(e)}>
-            <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-        </li>
+
     ));
 }
 
