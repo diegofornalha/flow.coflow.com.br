@@ -189,9 +189,6 @@ function SiteLogoLink({ title, isTitleVisible, logo }) {
 
 function ListOfLinks({ links, inMobileMenu }) {
         const connectWallet = async (e) => {
-
-
-        console.log('Connected wallet: ' + signer);
     };
     return links.map((link, index) => (
 <li key={index} onClick={(e) => connectWallet(e)}>
