@@ -76,12 +76,6 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Linkedin",
                 "altText": "",
                 "url": "https://linkedin.com/in/diegofornalha",
