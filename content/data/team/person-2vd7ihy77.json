@@ -1,0 +1,11 @@
+{
+    "firstName": "Diogo",
+    "lastName": "Bezerra",
+    "role": "Ceo",
+    "bio": "\n\n",
+    "image": {
+        "altText": "Person photo",
+        "url": "/images/169151082_358896675698144_8789960375314571225_n.jpg"
+    },
+    "type": "Person"
+}

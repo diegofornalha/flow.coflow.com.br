@@ -1,0 +1,83 @@
+{
+    "type": "ThemeStyle",
+    "h1": {
+        "size": "6xl",
+        "weight": "medium",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h2": {
+        "size": "5xl",
+        "weight": "normal",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h3": {
+        "size": "3xl",
+        "weight": "normal",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h4": {
+        "size": "2xl",
+        "weight": "medium",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h5": {
+        "size": "xl",
+        "weight": "medium",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h6": {
+        "size": "lg",
+        "weight": "medium",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "fontBody": "fontSecondary",
+    "main": "#EDEDED",
+    "light": "#ffffff",
+    "onLight": "#000000",
+    "dark": "#333333",
+    "onDark": "#ffffff",
+    "primary": "#f4fc05",
+    "onPrimary": "#000000",
+    "secondary": "#17ff98",
+    "onSecondary": "#000000",
+    "complementary": "#ffffff",
+    "onComplementary": "#000000",
+    "complementaryAlt": "#000000",
+    "onComplementaryAlt": "#ffffff",
+    "buttonPrimary": {
+        "weight": "normal",
+        "case": "none",
+        "letterSpacing": "normal",
+        "borderRadius": "none",
+        "horizontalPadding": 20,
+        "verticalPadding": 10,
+        "shadow": "none"
+    },
+    "buttonSecondary": {
+        "weight": "normal",
+        "case": "none",
+        "letterSpacing": "normal",
+        "borderRadius": "none",
+        "borderStyle": "solid",
+        "horizontalPadding": 20,
+        "verticalPadding": 10,
+        "shadow": "none"
+    },
+    "link": {
+        "weight": "normal",
+        "case": "none",
+        "letterSpacing": "normal"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "type": "Person",
+    "firstName": "Tauan",
+    "lastName": "Matos",
+    "role": "Marketing",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/Design sem nome (1).png",
+        "altText": "Hugh Saturation photo"
+    }
+}

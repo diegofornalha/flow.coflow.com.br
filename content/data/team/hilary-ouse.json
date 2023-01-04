@@ -1,0 +1,13 @@
+{
+    "type": "Person",
+    "firstName": "Diego",
+    "lastName": "Fornalha",
+    "role": "Embaixador Flow",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/diegofornalha onflowbr.png",
+        "altText": "Diego Fornalha",
+        "caption": "Diego Fornalha é o idealizador da iniciativa Coflow, inspirada na blockchain Flow, com o objetivo de criar experiências Web3 de ponta ao lançar dApps na Flow. Além disso, Diego defende as iniciativas de Bootcamp e publica artigos e vídeos em redes sociais. Ele é um líder no campo da tecnologia descentralizada e trabalha para impulsionar a adopção da Web3 no Brasil e no mundo."
+    },
+    "bio": "Idealizador da iniciativa Coflow, inspirada pela tecnologia blockchain Flow. Ele é um defensor de bootcamps e tem publicado vários artigos e vídeos sobre o assunto em suas redes sociais. Além disso, Diego tem como objetivo criar experiências Web3 de ponta ao lançar aplicativos descentralizados (dApps) na plataforma Flow. Com sua visão inovadora e sua paixão pelo mundo da tecnologia, Diego está comprometido em tornar a Coflow uma referência no Brasil no desenvolvimento de soluções baseadas em blockchain.\n\nhttps://flowambassadors.notion.site/Meet-Flow-Ambassadors-964a10f130394128b7e767ecd4d4e733\n\n"
+}

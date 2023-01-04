@@ -1,0 +1,111 @@
+{
+    "type": "Config",
+    "favicon": "/images/flow-flow-logo.png",
+    "header": {
+        "headerVariant": "variant-b",
+        "isSticky": true,
+        "primaryColors": "colors-d",
+        "secondaryColors": "colors-d",
+        "isTitleVisible": false,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Site oficial +1code",
+                "altText": "",
+                "url": "https://mais1code.com.br/"
+            },
+            {
+                "type": "Link",
+                "label": "Seja Mentor",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSeCgQfx3eFcgCIvw_MrjFMexBaW7IqQzkey3B4m5H0sbdk26w/viewform",
+                "altText": ""
+            }
+        ],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "label": "RECEBA TOKENS",
+                "altText": "GITHUB",
+                "style": "secondary",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "url": "https://github.com/diegofornalha/Mais1Code"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow"
+            }
+        },
+        "logo": {
+            "url": "/images/onflowbr.png",
+            "altText": "flow",
+            "caption": "flow",
+            "elementId": "flow",
+            "type": "ImageBlock"
+        },
+        "title": "flow"
+    },
+    "footer": {
+        "variant": "variant-b",
+        "colors": "colors-c",
+        "title": "Diga olá",
+        "contacts": {
+            "title": "Contact details",
+            "addressAltText": "Our address"
+        },
+        "copyrightText": "Feito com ❤️ por [Coflow ](https://coflow.com.br/)\n",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Sobre",
+                "url": "/about",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Linkedin",
+                "altText": "",
+                "url": "https://linkedin.com/in/diegofornalha",
+                "showIcon": true,
+                "icon": "linkedin",
+                "iconPosition": "left"
+            }
+        ],
+        "socialLinks": [],
+        "legalLinks": [],
+        "styles": {
+            "self": {
+                "width": "narrow"
+            }
+        }
+    },
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:title",
+            "content": "Flow Blockchain"
+        }
+    ],
+    "titleSuffix": "#OnFlowBr",
+    "defaultSocialImage": "/images/flow-Blockchain.jpg"
+}
