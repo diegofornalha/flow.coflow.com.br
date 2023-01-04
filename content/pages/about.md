@@ -2,30 +2,6 @@
 title: WhitePaper
 layout: PageLayout
 sections:
-  - type: TextSection
-    colors: colors-a
-    variant: variant-a
-    title: Projeto Crypto
-    text: |+
-      ## Impacto social: a habilidade de mudar o mundo ao seu redor
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-32
-          - pb-56
-          - pr-4
-          - pl-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    subtitle: Mais 1 Code
   - elementId: ''
     variant: variant-c
     colors: colors-d
