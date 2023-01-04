@@ -145,8 +145,8 @@ sections:
     backgroundSize: full
     title: Apoiamos a +1code!
     text: >+
-      ### Onde você terá acesso a um professor voluntário, com uma a duas aulas
-      por semana e suporte diário de nossa equipe.
+      ### Acreditamos em Reprogramar a Quebrada através do ensino tech de
+      qualidade para jovens de baixa renda.&#xA;&#xA;
 
     actions:
       - type: Link
