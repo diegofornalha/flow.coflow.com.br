@@ -26,7 +26,7 @@ bottomSections:
     colors: colors-e
     variant: variant-a
     text: |+
-      ## [Siga-nos no Twitter](https://www.instagram.com/diegofornalha)
+      [@DiegoFornalha no Twitter](https://www.instagram.com/diegofornalha)
 
     styles:
       self:
