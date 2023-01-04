@@ -80,6 +80,17 @@
                 "elementId": ""
             },
             {
+                "type": "Button",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://twitter.com/onflowbr",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
                 "type": "Link",
                 "url": "/about",
                 "altText": ""
