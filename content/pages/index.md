@@ -55,7 +55,9 @@ sections:
   - type: QuoteSection
     colors: colors-c
     quote: |+
-      ## **Preparad@ para o Futuro Web3?**
+      ## **O Brasil Liderando a Web3**
+
+
 
     styles:
       self:
