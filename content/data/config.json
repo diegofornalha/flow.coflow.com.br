@@ -30,7 +30,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "RECEBA TOKENS",
+                "label": "RECEBA TOKENS (Em Breve)",
                 "altText": "GITHUB",
                 "style": "secondary",
                 "showIcon": true,
