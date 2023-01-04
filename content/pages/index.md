@@ -121,7 +121,7 @@ sections:
     colors: colors-e
     variant: variant-a
     text: |+
-      ## [Siga-nos no Twitter](https://www.twitter.com/onflowbr)
+      ## [**Siga-nos no Twitter**](https://www.twitter.com/onflowbr)
 
     styles:
       self:
