@@ -25,8 +25,9 @@ bottomSections:
   - type: TextSection
     colors: colors-e
     variant: variant-a
-    text: |+
-      [@DiegoFornalha no Twitter](https://www.instagram.com/diegofornalha)
+    text: >+
+      ## ****[**@DiegoFornalha no
+      Twitter**](https://www.instagram.com/diegofornalha)
 
     styles:
       self:
