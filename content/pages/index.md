@@ -16,6 +16,7 @@ sections:
         iconPosition: right
         icon: arrowRight
         showIcon: true
+        altText: Entrar no Servidor do Discord
       - label: Novidades
         altText: ''
         url: /blog
