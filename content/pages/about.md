@@ -67,9 +67,7 @@ sections:
     variant: variant-c
     colors: colors-d
     title: Nosso Time
-    subtitle: >-
-      Somos um grupo de profissionais e amigos, que adoram tecnologia e
-      compartilhar nossas experiências com o mundo.
+    subtitle: Embaixadores e Advocates
     people:
       - content/data/team/hilary-ouse.json
       - content/data/team/person-ds2ex1lyh.json
