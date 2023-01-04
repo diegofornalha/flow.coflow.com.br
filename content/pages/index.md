@@ -9,7 +9,7 @@ sections:
     subtitle: A Melhor Comunidade Brasileira de Construtores Flow Blockchain
     actions:
       - type: Button
-        label: Quero ser aluno
+        label: Entrar no Servidor do Discord
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLSdLq7-5G8MDD_eMunWjwbPeo2o-JhMI4U2IP6aRN6WwW7kNUg/viewform
         style: primary
