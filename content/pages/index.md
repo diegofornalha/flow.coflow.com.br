@@ -55,7 +55,7 @@ sections:
   - type: QuoteSection
     colors: colors-c
     quote: |+
-      # [Tudo Sobre Web3](/blog)
+      ## [Tudo Sobre Web3](/blog)
 
     styles:
       self:
