@@ -55,7 +55,7 @@ sections:
   - type: QuoteSection
     colors: colors-c
     quote: |+
-      ## **Reprogramando a Quebrada**
+      ## **Preparad@ para o Futuro Web3?**
 
     styles:
       self:
