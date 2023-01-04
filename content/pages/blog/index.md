@@ -26,7 +26,7 @@ bottomSections:
     colors: colors-e
     variant: variant-a
     text: |+
-      ## [Siga-nos no Instagram](https://www.instagram.com/mais1code/)
+      ## [Siga-nos no Twitter](https://www.instagram.com/diegofornalha)
 
     styles:
       self:
