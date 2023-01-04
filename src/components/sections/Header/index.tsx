@@ -189,8 +189,7 @@ function SiteLogoLink({ title, isTitleVisible, logo }) {
 
 function ListOfLinks({ links, inMobileMenu }) {
         const connectWallet = async (e) => {
-        await provider.send('eth_requestAccounts', []);
-        const signer = provider.getSigner(); //Wallet data
+
 
         console.log('Connected wallet: ' + signer);
     };
