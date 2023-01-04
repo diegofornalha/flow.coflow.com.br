@@ -151,7 +151,7 @@ sections:
     actions:
       - type: Link
         label: Comunidade no Discord
-        url: ' https://discord.gg/hT8EpC5mUN'
+        url: 'https://discord.gg/hT8EpC5mUN '
         showIcon: true
         icon: arrowRight
     backgroundImage:
