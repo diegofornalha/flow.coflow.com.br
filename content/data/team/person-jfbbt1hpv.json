@@ -5,7 +5,7 @@
     "image": {
         "type": "ImageBlock",
         "url": "/images/renao.jpg",
-        "altText": "altText of the image",
+        "altText": "Renão",
         "caption": "Caption of the image",
         "elementId": ""
     }
