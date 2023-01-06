@@ -23,7 +23,7 @@ sections:
         label: blog
         showIcon: true
         icon: arrowRight
-        url: /
+        url: /blog
     backgroundImage: null
     styles:
       self:
