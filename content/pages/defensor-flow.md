@@ -12,9 +12,6 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Programa Aprendiz Advocate
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
     actions:
       - type: Button
         label: Try it now
