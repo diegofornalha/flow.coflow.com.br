@@ -20,7 +20,7 @@ sections:
         icon: arrowRight
         style: primary
       - type: Link
-        label: Learn more
+        label: blog
         showIcon: true
         icon: arrowRight
         url: /
