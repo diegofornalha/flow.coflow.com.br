@@ -71,41 +71,6 @@ sections:
         textAlign: center
       title:
         textAlign: center
-  - type: FeaturedPostsSection
-    colors: colors-c
-    variant: variant-a
-    title: Seasonal adventures
-    actions:
-      - type: Link
-        label: See all adventures
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showReadMoreLink: true
-    readMoreLinkLabel: Saiba Mais
-    posts:
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-three.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: TextSection
     colors: colors-e
     variant: variant-a
