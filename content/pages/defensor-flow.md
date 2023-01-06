@@ -14,7 +14,7 @@ sections:
     title: Programa Aprendiz Advocate
     actions:
       - type: Button
-        label: Try it now
+        label: Entrar
         url: /
         showIcon: true
         icon: arrowRight
