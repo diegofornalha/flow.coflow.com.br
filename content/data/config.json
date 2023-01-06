@@ -23,7 +23,7 @@
             {
                 "type": "Link",
                 "label": "Defensor Flow",
-                "altText": "",
+                "altText": "Defensor Flow",
                 "url": "/defensor-flow",
                 "showIcon": false,
                 "icon": "arrowRight",
