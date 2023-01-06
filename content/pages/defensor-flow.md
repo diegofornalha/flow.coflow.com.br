@@ -70,7 +70,7 @@ sections:
 
       [ENTRAR NO DISCORD](https://discord.com/invite/hT8EpC5mUN)
     name: Diego Fornalha (O primeiro embaixador na flow LATAM)
-    title: Product Marketing Manager at Acme
+    title: Fundador da coflow.com.br
     backgroundImage: null
     styles:
       self:
