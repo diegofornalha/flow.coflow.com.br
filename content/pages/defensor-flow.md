@@ -11,7 +11,7 @@ sections:
     colors: colors-e
     elementId: ''
     backgroundSize: full
-    title: Seja um e
+    title: 'Programa '
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
