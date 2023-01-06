@@ -69,7 +69,7 @@ sections:
 
 
       [ENTRAR NO DISCORD](https://discord.com/invite/hT8EpC5mUN)
-    name: dIEGO
+    name: Diego Fornalha (O primeiro embaixador na flow LATAM)
     title: Product Marketing Manager at Acme
     backgroundImage: null
     styles:
