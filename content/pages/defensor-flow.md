@@ -69,7 +69,7 @@ sections:
 
 
       [ENTRAR NO DISCORD](https://discord.com/invite/hT8EpC5mUN)
-    name: Johnna Doe
+    name: dIEGO
     title: Product Marketing Manager at Acme
     backgroundImage: null
     styles:
