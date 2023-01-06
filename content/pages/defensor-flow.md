@@ -20,7 +20,7 @@ sections:
         icon: arrowRight
         style: primary
       - type: Link
-        label: blog
+        label: Ir para o blog
         showIcon: true
         icon: arrowRight
         url: /blog
