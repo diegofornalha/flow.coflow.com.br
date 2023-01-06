@@ -24,6 +24,7 @@ sections:
         showIcon: true
         icon: arrowRight
         url: /blog
+        altText: blog
     backgroundImage: null
     styles:
       self:
