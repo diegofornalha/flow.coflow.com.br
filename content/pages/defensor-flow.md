@@ -43,4 +43,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: |+
+      **Venha fazer parte do melhor ecositema de blockchain web 3 do brasil!**
+
 ---
