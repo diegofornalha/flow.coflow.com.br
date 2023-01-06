@@ -22,6 +22,16 @@
             },
             {
                 "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/defensor-flow",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Entrar no Discord",
                 "url": "https://discord.gg/hT8EpC5mUN ",
                 "altText": "Entrar no Discord"
