@@ -15,7 +15,7 @@ sections:
     actions:
       - type: Button
         label: Entrar
-        url: /
+        url: 'https://discord.gg/hT8EpC5mUN '
         showIcon: true
         icon: arrowRight
         style: primary
