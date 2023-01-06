@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: OnFlow
+    title: OnFlowBr
     subtitle: A Melhor Comunidade Brasileira de Construtores Flow Blockchain
     actions:
       - type: Button
