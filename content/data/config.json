@@ -96,6 +96,16 @@
             },
             {
                 "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://discord.com/invite/hT8EpC5mUN",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Linkedin",
                 "altText": "",
                 "url": "https://linkedin.com/in/diegofornalha",
