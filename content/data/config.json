@@ -97,7 +97,7 @@
             {
                 "type": "Link",
                 "label": "Discord",
-                "altText": "",
+                "altText": "Discord",
                 "url": "https://discord.com/invite/hT8EpC5mUN",
                 "showIcon": false,
                 "icon": "arrowRight",
