@@ -73,6 +73,7 @@ bottomSections:
     posts:
       - content/pages/blog/apresentando-o-flow-playground.md
       - content/pages/blog/chainmonsters-um-crypto-game-da-flow-blockchain.md
+      - content/pages/blog/tomando-seus-primeiros-passos-com-cadence.md
 metaDescription: >-
   O Flow é uma plataforma de blockchain que suporta contratos inteligentes e
   tokens não fungíveis (NFTs). Para aprender sobre o Flow, é importante
