@@ -54,7 +54,7 @@ bottomSections:
     actions:
       - type: Link
         label: Todas as Postagens
-        altText: See all adventures
+        altText: Todas as Postagens
         url: /blog
         showIcon: true
         icon: arrowRight
