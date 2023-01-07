@@ -42,7 +42,39 @@ media:
     de desenvolvimento e as ferramentas disponíveis, praticar a escrita de
     código na linguagem de programação Cadence e participar da comunidade Flow e
     interagir com outros desenvolvedores.
-bottomSections: []
+bottomSections:
+  - type: FeaturedPostsSection
+    colors: colors-e
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: true
+    readMoreLinkLabel: Saiba Mais
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Seasonal adventure
+    subtitle: ''
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
 metaDescription: >-
   O Flow é uma plataforma de blockchain que suporta contratos inteligentes e
   tokens não fungíveis (NFTs). Para aprender sobre o Flow, é importante
