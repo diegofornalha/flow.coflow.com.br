@@ -72,7 +72,6 @@ bottomSections:
     title: Seasonal adventure
     subtitle: ''
     posts:
-      - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
 metaDescription: >-
   O Flow é uma plataforma de blockchain que suporta contratos inteligentes e
