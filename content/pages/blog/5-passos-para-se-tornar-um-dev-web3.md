@@ -77,7 +77,6 @@ bottomSections:
     title: Seasonal adventure
     subtitle: ''
     posts:
-      - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
 metaDescription: >-
   O Web3 é a próxima geração da web, descentralizada e baseada em blockchain.
