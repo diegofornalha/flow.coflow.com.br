@@ -69,7 +69,6 @@ bottomSections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Seasonal adventure
     subtitle: ''
     posts:
       - content/pages/blog/post-one.md
