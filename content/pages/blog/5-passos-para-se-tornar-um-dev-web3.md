@@ -76,7 +76,9 @@ bottomSections:
         justifyContent: flex-start
     title: Seasonal adventure
     subtitle: ''
-    posts: []
+    posts:
+      - >-
+        content/pages/blog/5-dicas-pra-quem-quer-aprender-sobre-a-blockchain-flow.md
 metaDescription: >-
   O Web3 é a próxima geração da web, descentralizada e baseada em blockchain.
   Para se tornar um desenvolvedor Web3 de sucesso, é importante dominar os
