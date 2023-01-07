@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: 5 passos para se tornar um dev Web3
 addTitleSuffix: true
 metaTags: []
 title: '5 passos para se tornar um dev Web3 '
