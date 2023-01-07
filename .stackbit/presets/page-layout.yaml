@@ -103,7 +103,7 @@ presets:
           title: Seasonal adventures
           actions:
             - type: Link
-              label: See all adventures
+              label: Todas as Postagens
               url: '/blog'
               showIcon: true
               icon: arrowRight
