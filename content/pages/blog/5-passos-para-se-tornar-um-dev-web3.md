@@ -41,7 +41,39 @@ media:
     Web3 ou em um uso específico, e ficar atualizado sobre as últimas tendências
     e tecnologias. Mantendo-se atualizado e especializado, você poderá
     aproveitar ao máximo as oportunidades neste campo em rápido crescimento.
-bottomSections: []
+bottomSections:
+  - type: FeaturedPostsSection
+    colors: colors-e
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: true
+    readMoreLinkLabel: Saiba Mais
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Seasonal adventure
+    subtitle: ''
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
 metaDescription: >-
   O Web3 é a próxima geração da web, descentralizada e baseada em blockchain.
   Para se tornar um desenvolvedor Web3 de sucesso, é importante dominar os
