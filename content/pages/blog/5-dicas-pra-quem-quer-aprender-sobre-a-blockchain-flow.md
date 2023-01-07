@@ -70,7 +70,8 @@ bottomSections:
       actions:
         justifyContent: center
     subtitle: ''
-    posts: []
+    posts:
+      - content/pages/blog/apresentando-o-flow-playground.md
 metaDescription: >-
   O Flow é uma plataforma de blockchain que suporta contratos inteligentes e
   tokens não fungíveis (NFTs). Para aprender sobre o Flow, é importante
