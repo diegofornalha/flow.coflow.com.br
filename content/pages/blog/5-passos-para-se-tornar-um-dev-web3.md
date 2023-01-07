@@ -22,12 +22,19 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+## Quer fazer parte da revolução descentralizada como desenvolvedor Web3? 
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Siga este guia para obter dicas sobre como começar e ter uma carreira bem-sucedida neste campo emocionante e em crescimento.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Primeiro, é importante familiarizar-se com os fundamentos do desenvolvimento web. Isso inclui aprender HTML, CSS e JavaScript, bem como frameworks como o React.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Em seguida, você vai querer aprender sobre a web descentralizada, também conhecida como Web3. Isso inclui entender a tecnologia de blockchain e como ela funciona, bem como se familiarizar com protocolos como o Flow Blockchain.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Para se tornar um desenvolvedor Web3, também é importante ter um bom entendimento de contratos inteligentes e da linguagem de programação Cadence, usada para escrevê-los. Você pode aprender através de recursos online ou trabalhando em projetos e contribuindo para a comunidade de código aberto.
+
+Conforme você continuar aprendendo e ganhando experiência, pode ser interessante especializar-se em um aspecto particular do desenvolvimento Web3, como front-end ou back-end, ou se concentrar em um uso específico, como finanças descentralizadas (DeFi) ou tokens não fungíveis (NFTs).
+
+Por fim, fique de olho nas últimas tendências e avanços no espaço Web3 e continue aprendendo e ficando atualizado sobre as últimas ferramentas e tecnologias. Isso o ajudará a ficar relevante e em demanda como desenvolvedor Web3.
+
+Inspirado no conteúdo original em inglês: https://twitter.com/Frlabs33/status/1609902138729144320
+
