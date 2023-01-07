@@ -17,7 +17,7 @@ excerpt: >-
   máximo as oportunidades neste campo em rápido crescimento.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/5 passos para se tornar um dev Web3 DiegoFornalha.png
   altText: Post thumbnail image
   caption: ''
 media:
