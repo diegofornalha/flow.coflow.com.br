@@ -82,7 +82,7 @@
             {
                 "type": "Link",
                 "label": "Postagens Mais Recentes",
-                "altText": "",
+                "altText": "Postagens Mais Recentes",
                 "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
