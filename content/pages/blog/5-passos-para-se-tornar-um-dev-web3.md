@@ -74,7 +74,6 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Seasonal adventure
     subtitle: ''
     posts:
       - >-
