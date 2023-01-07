@@ -31,7 +31,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
+  altText: 5 passos para se tornar um dev Web3
 bottomSections: []
 metaDescription: null
 socialImage: null
