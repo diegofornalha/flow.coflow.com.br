@@ -76,8 +76,7 @@ bottomSections:
         justifyContent: flex-start
     title: Seasonal adventure
     subtitle: ''
-    posts:
-      - content/pages/blog/post-one.md
+    posts: []
 metaDescription: >-
   O Web3 é a próxima geração da web, descentralizada e baseada em blockchain.
   Para se tornar um desenvolvedor Web3 de sucesso, é importante dominar os
