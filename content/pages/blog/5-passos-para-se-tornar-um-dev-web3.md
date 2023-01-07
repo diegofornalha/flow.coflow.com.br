@@ -27,6 +27,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/hilary-ouse.json
 ---
 ## Quer fazer parte da revolução descentralizada como desenvolvedor Web3? 
 
