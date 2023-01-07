@@ -44,7 +44,7 @@ media:
     interagir com outros desenvolvedores.
 bottomSections:
   - type: FeaturedPostsSection
-    colors: colors-e
+    colors: colors-d
     elementId: ''
     showDate: true
     showAuthor: false
