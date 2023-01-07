@@ -27,6 +27,7 @@ featuredImage:
     Web3 ou em um uso específico, e ficar atualizado sobre as últimas tendências
     e tecnologias. Mantendo-se atualizado e especializado, você poderá
     aproveitar ao máximo as oportunidades neste campo em rápido crescimento.
+  altText: 5 passos para se tornar um dev Web3
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
