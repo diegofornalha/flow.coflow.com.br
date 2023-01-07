@@ -51,7 +51,7 @@ metaDescription: >-
   um uso específico, e ficar atualizado sobre as últimas tendências e
   tecnologias. Mantendo-se atualizado e especializado, você poderá aproveitar ao
   máximo as oportunidades neste campo em rápido crescimento.
-socialImage: null
+socialImage: /images/5 passos para se tornar um dev Web3 DiegoFornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 ## Quer fazer parte da revolução descentralizada como desenvolvedor Web3? 
