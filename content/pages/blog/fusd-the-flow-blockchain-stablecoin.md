@@ -75,7 +75,9 @@ bottomSections:
         justifyContent: center
     title: Seasonal adventure
     subtitle: ''
-    posts: []
+    posts:
+      - >-
+        content/pages/blog/5-dicas-pra-quem-quer-aprender-sobre-a-blockchain-flow.md
 metaDescription: >-
   O FUSD é um stablecoin nativo da plataforma de blockchain Flow. Ele é
   lastreado pelo dólar americano em 1:1, o que significa que cada FUSD é
