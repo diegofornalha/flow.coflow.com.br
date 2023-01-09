@@ -73,7 +73,6 @@ bottomSections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Seasonal adventure
     subtitle: ''
     posts:
       - >-
