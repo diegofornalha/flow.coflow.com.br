@@ -49,7 +49,7 @@ media:
     quer usar criptomoedas, mas não sabe por onde começar.
 bottomSections:
   - type: FeaturedPostsSection
-    colors: colors-e
+    colors: colors-a
     elementId: ''
     showDate: true
     showAuthor: false
