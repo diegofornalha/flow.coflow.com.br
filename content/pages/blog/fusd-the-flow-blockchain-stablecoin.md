@@ -78,6 +78,7 @@ bottomSections:
       - >-
         content/pages/blog/5-dicas-pra-quem-quer-aprender-sobre-a-blockchain-flow.md
       - content/pages/blog/5-passos-para-se-tornar-um-dev-web3.md
+      - content/pages/blog/usando-o-ledger-nano-com-flow.md
 metaDescription: >-
   O FUSD é um stablecoin nativo da plataforma de blockchain Flow. Ele é
   lastreado pelo dólar americano em 1:1, o que significa que cada FUSD é
