@@ -47,7 +47,39 @@ media:
     Instituições financeiras e provedores de carteira podem oferecer acesso
     fiduciário globalmente ao amplo ecossistema Flow, o que é ótimo para quem
     quer usar criptomoedas, mas não sabe por onde começar.
-bottomSections: []
+bottomSections:
+  - type: FeaturedPostsSection
+    colors: colors-e
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: true
+    readMoreLinkLabel: Saiba Mais
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Seasonal adventure
+    subtitle: ''
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
 metaDescription: >-
   O FUSD é um stablecoin nativo da plataforma de blockchain Flow. Ele é
   lastreado pelo dólar americano em 1:1, o que significa que cada FUSD é
