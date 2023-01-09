@@ -76,7 +76,6 @@ bottomSections:
     title: Seasonal adventure
     subtitle: ''
     posts:
-      - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
 metaDescription: >-
   O FUSD é um stablecoin nativo da plataforma de blockchain Flow. Ele é
