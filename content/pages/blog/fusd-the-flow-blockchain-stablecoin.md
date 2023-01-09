@@ -55,7 +55,6 @@ bottomSections:
     showAuthor: false
     showExcerpt: false
     showReadMoreLink: true
-    readMoreLinkLabel: Saiba Mais
     variant: variant-b
     actions: []
     styles:
