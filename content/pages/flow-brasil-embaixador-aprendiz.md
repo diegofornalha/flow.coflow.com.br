@@ -34,7 +34,7 @@ sections:
       você.
 
 
-      Entre no nosso discord para começar!
+      ### [Entre no nosso discord para começar!](https://discord.gg/hT8EpC5mUN)
 
 
       Diego Fornalha (O primeiro embaixador na flow LATAM)Fundador da
