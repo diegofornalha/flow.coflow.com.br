@@ -21,7 +21,7 @@ socialImage: null
 ---
 O diagrama abaixo descreve os componentes de um dapp típico construído na blockchain Flow. Embora muitos dapps sejam estruturados de maneira diferente, essa arquitetura apresenta conceitos fundamentais que serão discutidos ao longo deste guia.
 
-
+![](/images/image.png)
 
 **Cliente Dapp**
 O cliente dapp é a interface através da qual os usuários interagem com seu dapp. Aplicativos da Web e móveis são exemplos comuns de clientes dapp.
