@@ -11,7 +11,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: 'Programa Aprendiz Embaixador '
+    title: Programa Aprendiz Embaixador (Flow Brasil)
     text: We look forward to hearing from you.
     media: null
     styles:
