@@ -97,7 +97,7 @@
             {
                 "type": "Link",
                 "label": "Seja um Embaixador Aprendiz",
-                "altText": "",
+                "altText": "Seja um Embaixador Aprendiz",
                 "url": "/flow-brasil-embaixador-aprendiz/",
                 "showIcon": false,
                 "icon": "arrowRight",
