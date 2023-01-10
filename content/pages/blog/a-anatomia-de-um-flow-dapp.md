@@ -43,7 +43,9 @@ bottomSections:
       actions:
         justifyContent: center
     subtitle: ''
-    posts: []
+    posts:
+      - >-
+        content/pages/blog/escreva-contratos-inteligente-em-cadence-para-votacoes.md
 metaDescription: null
 socialImage: /images/a anatomia da uma dapp diego fornalha.png
 ---
