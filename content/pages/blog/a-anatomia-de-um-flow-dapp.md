@@ -8,7 +8,7 @@ colors: colors-d
 date: '2023-01-10'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/a anatomia da uma dapp diego fornalha.png
   altText: Post thumbnail image
   caption: ''
 media:
