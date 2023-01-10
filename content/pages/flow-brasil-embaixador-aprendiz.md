@@ -18,7 +18,7 @@ sections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: Entre no Discord
         showIcon: true
         icon: arrowRight
         url: /
