@@ -20,7 +20,7 @@ bottomSections:
     colors: colors-a
     elementId: ''
     showDate: false
-    showAuthor: true
+    showAuthor: false
     showExcerpt: false
     showReadMoreLink: true
     readMoreLinkLabel: Saiba Mais
