@@ -37,9 +37,10 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >+
+      Comunidade Flow Brasil - Programa totalmente independente liderado por
+      Diego Fornalha Embaixador mentor oficial da Flow.
+
     actions:
       - type: Button
         label: Try it now
