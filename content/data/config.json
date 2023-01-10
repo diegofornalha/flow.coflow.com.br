@@ -96,6 +96,16 @@
             },
             {
                 "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/flow-brasil-embaixador-aprendiz/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Discord",
                 "altText": "Discord",
                 "url": "https://discord.com/invite/hT8EpC5mUN",
