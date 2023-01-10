@@ -17,8 +17,9 @@ sections:
       Diego Fornalha Embaixador mentor oficial da Flow.
 
 
-      Oi! Você está interessado em se tornar um embaixador da Flow? Bem, você
-      está com sorte porque temos um programa incrível para pessoas como você!
+      Oi! Você está interessado em se tornar um embaixador da Flow brasil? Bem,
+      você está com sorte porque temos um programa incrível para pessoas como
+      você!
 
 
       Como aprendiz embaixador, você terá a chance de aprender tudo sobre o Flow
