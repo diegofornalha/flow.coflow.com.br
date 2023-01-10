@@ -17,7 +17,7 @@ media:
   altText: A anatomia de um Flow Dapp
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: /images/a anatomia da uma dapp diego fornalha.png
 ---
 O diagrama abaixo descreve os componentes de um dapp típico construído na blockchain Flow. Embora muitos dapps sejam estruturados de maneira diferente, essa arquitetura apresenta conceitos fundamentais que serão discutidos ao longo deste guia.
 
