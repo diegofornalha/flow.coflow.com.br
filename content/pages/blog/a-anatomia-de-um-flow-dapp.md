@@ -9,7 +9,7 @@ date: '2023-01-10'
 featuredImage:
   type: ImageBlock
   url: /images/a anatomia da uma dapp diego fornalha.png
-  altText: Post thumbnail image
+  altText: A anatomia de um Flow Dapp
   caption: ''
 media:
   type: ImageBlock
