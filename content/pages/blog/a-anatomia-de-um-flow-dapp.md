@@ -48,6 +48,7 @@ bottomSections:
         content/pages/blog/escreva-contratos-inteligente-em-cadence-para-votacoes.md
       - >-
         content/pages/blog/como-construir-um-dapp-para-cunhagem-de-nft-na-flow.md
+      - content/pages/blog/como-a-programacao-orientada-a-recursos-funciona.md
 metaDescription: null
 socialImage: /images/a anatomia da uma dapp diego fornalha.png
 ---
