@@ -12,7 +12,9 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Programa Aprendiz Embaixador
-    text: We look forward to hearing from you.
+    text: >
+      Comunidade Flow Brasil - Programa totalmente independente liderado por
+      Diego Fornalha Embaixador mentor oficial da Flow.
     media: null
     styles:
       self:
