@@ -12,32 +12,33 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Programa Aprendiz Embaixador
-    text: >+
+    text: >
       Comunidade Flow Brasil - Programa totalmente independente liderado por
       Diego Fornalha Embaixador mentor oficial da Flow.
 
 
+      Oi! Você está interessado em se tornar um embaixador da Flow? Bem, você
+      está com sorte porque temos um programa incrível para pessoas como você!
 
 
-      ###### Oi! Você está interessado em se tornar um embaixador da Flow? Bem,
-      você está com sorte porque temos um programa incrível para pessoas como
-      você!
+      Como aprendiz embaixador, você terá a chance de aprender tudo sobre o Flow
+      e como compartilhá-lo com outras pessoas. Você poderá escrever artigos
+      sobre vários tópicos dentro do ecossistema da Flow e compartilhá-los em
+      nosso blog e em outras plataformas, como Web3Dev, Tabnews, Twitter, Medium
+      e muito mais.
 
 
-      ###### Como aprendiz embaixador, você terá a chance de aprender tudo sobre
-      o Flow e como compartilhá-lo com outras pessoas. Você poderá escrever
-      artigos sobre vários tópicos dentro do ecossistema da Flow e
-      compartilhá-los em nosso blog e em outras plataformas, como Web3Dev,
-      Tabnews, Twitter, Medium e muito mais.
+      Faremos acompanhamento do seu progresso e desempenho, começando pela nossa
+      iniciativa de blog em português. Então, se você é apaixonado pela Flow e
+      quer ajudar a divulgar a palavra, essa é a oportunidade perfeita para
+      você.
 
 
-      ###### Faremos acompanhamento do seu progresso e desempenho, começando
-      pela nossa iniciativa de blog em português. Então, se você é apaixonado
-      pela Flow e quer ajudar a divulgar a palavra, essa é a oportunidade
-      perfeita para você. Entre no nosso discord para começar!&#xA;&#xA;Diego
-      Fornalha (O primeiro embaixador na flow LATAM)Fundador da
-      coflow.com.br&#xA;&#xA;
+      Entre no nosso discord para começar!
 
+
+      Diego Fornalha (O primeiro embaixador na flow LATAM)Fundador da
+      coflow.com.br
     actions:
       - type: Button
         label: Entre no Discord
