@@ -21,7 +21,7 @@ bottomSections:
     elementId: ''
     showDate: true
     showAuthor: false
-    showExcerpt: true
+    showExcerpt: false
     showReadMoreLink: true
     readMoreLinkLabel: Saiba Mais
     variant: variant-b
