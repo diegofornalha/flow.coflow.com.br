@@ -23,6 +23,7 @@ sections:
         icon: arrowRight
         url: 'https://discord.gg/hT8EpC5mUN '
         style: primary
+        altText: Entre no Discord
     backgroundImage: null
     styles:
       self:
