@@ -44,7 +44,6 @@ bottomSections:
         justifyContent: center
     subtitle: ''
     posts:
-      - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
 metaDescription: null
 socialImage: /images/a anatomia da uma dapp diego fornalha.png
