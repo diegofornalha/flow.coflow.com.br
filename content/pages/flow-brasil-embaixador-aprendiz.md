@@ -21,7 +21,7 @@ sections:
         label: Entre no Discord
         showIcon: true
         icon: arrowRight
-        url: /
+        url: 'https://discord.gg/hT8EpC5mUN '
         style: primary
     backgroundImage: null
     styles:
