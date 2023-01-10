@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: A anatomia de um Flow Dapp
 addTitleSuffix: true
 metaTags: []
 title: A anatomia de um Flow Dapp
