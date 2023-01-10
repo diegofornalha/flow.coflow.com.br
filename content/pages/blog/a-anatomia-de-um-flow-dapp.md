@@ -6,9 +6,6 @@ metaTags: []
 title: A anatomia de um Flow Dapp
 colors: colors-d
 date: '2023-01-10'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
