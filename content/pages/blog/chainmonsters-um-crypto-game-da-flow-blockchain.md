@@ -70,12 +70,6 @@ author: content/data/team/hilary-ouse.json
 
 O jogo está em desenvolvimento há mais de 3 anos e combina uma excelente experiência de jogo tradicional com recursos interessantes possibilitados pela integração com o [blockchain Flow](https://www.onflow.org/). Trajes, itens, monstros e muitos outros objetos especiais do jogo são todos NFTs pertencentes e controlados pelos usuários.
 
-### **Reserve a data**
-
-Junte-se à nossa [campanha Kickstarter](https://www.kickstarter.com/projects/cinetek/chainmonsters) em 20 de outubro, às 10h PST / 19h CET, para ter a chance de reservar NFTs super raros e itens exclusivos, incluindo oportunidades de pegar a primeira edição cunhada de cada Chainmon (monstro) no jogo (por exemplo, número de série #1).
-
-‍ Observação *: a página da campanha estará no ar a partir da data de lançamento, junte-se ao nosso Discord no final deste blog para se manter atualizado.*
-
 ![https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4e9df914547331f76de\_5f87dbe7fa21cbdcbd5ca760\_j0Hx0IFmCDFRozgGRA0vT6YKYo2IPSxOLPGIQRWhQcZ6-skht9Sly_SjUBesxbIsNxuoZaYj55FNhZHOo465-uwsR-SSkj4djkSV0UHatoGzwjXbACNPFShjjYk-5r3Y6562g7T8.png](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4e9df914547331f76de\_5f87dbe7fa21cbdcbd5ca760\_j0Hx0IFmCDFRozgGRA0vT6YKYo2IPSxOLPGIQRWhQcZ6-skht9Sly_SjUBesxbIsNxuoZaYj55FNhZHOo465-uwsR-SSkj4djkSV0UHatoGzwjXbACNPFShjjYk-5r3Y6562g7T8.png)
 
 ### **Por que Fluir?**
