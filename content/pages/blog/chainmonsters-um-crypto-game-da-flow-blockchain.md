@@ -74,11 +74,11 @@ O jogo está em desenvolvimento há mais de 3 anos e combina uma excelente exper
 
 ### **Por que Flow?**
 
-Flow é um novo blockchain construído para a próxima geração de aplicativos, jogos e ativos digitais que os alimentam. Os principais princípios de design que orientam o Flow são princípios centrados no consumidor e amigáveis ao desenvolvedor que tornaram essa rede blockchain altamente escalável o ecossistema ideal para grandes marcas globais como NBA, UFC, Ubisoft, Dr. Seuss e Warner Music Group.
+Flow é um novo blockchain construído para a próxima geração de aplicativos, jogos e ativos digitais que os alimentam. Os principais princípios de design que orientam a Flow são princípios centrados no consumidor e amigáveis ao desenvolvedor que tornaram essa rede blockchain altamente escalável o ecossistema ideal para grandes marcas globais como NBA, UFC, Ubisoft, Dr. Seuss e Warner Music Group.
 
-Estamos trabalhando com o ecossistema Flow como parte do programa Flow Alpha há quase um ano. O design centrado no consumidor oferecido pelo Flow nos permite criar experiências de integração perfeitas que permitirão aos Chainmonsters penetrar no mercado de massa com mais facilidade, em comparação com outros jogos criptográficos lançados até o momento.
+Estamos trabalhando com o ecossistema Flow como parte do programa Flow Alpha há quase um ano. O design centrado no consumidor oferecido pela Flow nos permite criar experiências de integração perfeitas que permitirão aos Chainmonsters penetrar no mercado de massa com mais facilidade, em comparação com outros jogos criptográficos lançados até o momento.
 
-Quando um usuário inicia nosso jogo, ele pode começar a jogar imediatamente, sem precisar de nenhum conhecimento sobre blockchain. Eles têm uma conta Flow anônima criada em segundo plano e, uma vez que decidam continuar jogando e assumir total responsabilidade por seus ativos digitais ganhos, podem reivindicar o controle total de sua conta sem problemas. Isso é feito facilmente, sem excesso de engenharia, graças ao suporte multisig que o Flow oferece por padrão. Sempre foi importante para nós encontrar o equilíbrio certo entre facilidade de acesso, jogabilidade altamente envolvente e propriedade de ativos digitais descentralizada.
+Quando um usuário inicia nosso jogo, ele pode começar a jogar imediatamente, sem precisar de nenhum conhecimento sobre blockchain. Eles têm uma conta Flow anônima criada em segundo plano e, uma vez que decidam continuar jogando e assumir total responsabilidade por seus ativos digitais ganhos, podem reivindicar o controle total de sua conta sem problemas. Isso é feito facilmente, sem excesso de engenharia, graças ao suporte multisig que a Flow oferece por padrão. Sempre foi importante para nós encontrar o equilíbrio certo entre facilidade de acesso, jogabilidade altamente envolvente e propriedade de ativos digitais descentralizada.
 
 ### **Quão sérios nós somos?**
 
@@ -94,7 +94,7 @@ Exclusivamente para nossos patrocinadores do Kickstarter, criamos uma impression
 
 ### **Jogabilidade e NFTs**
 
-Os jogadores estão embarcando em uma jornada épica enquanto estão conectados ao blockchain o tempo todo. Cada Chainmon, item e ativo digital vive e respira no Flow.
+Os jogadores estão embarcando em uma jornada épica enquanto estão conectados ao blockchain o tempo todo. Cada Chainmon, item e ativo digital vive e respira na Flow.
 
 No jogo, você pode capturar um total de 135 Chainmons únicos, mas nem todos são criados iguais. Valores individuais como estatísticas, características e mutações definem a força de seus monstros! Além disso, cada Chainmon se distingue pelos números de série, determinados pela ordem de captura pelos jogadores globalmente, e vem em 3 variações visuais diferentes:
 
