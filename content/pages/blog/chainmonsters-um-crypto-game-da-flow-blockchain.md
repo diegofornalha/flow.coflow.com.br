@@ -72,7 +72,7 @@ O jogo está em desenvolvimento há mais de 3 anos e combina uma excelente exper
 
 ![https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4e9df914547331f76de\_5f87dbe7fa21cbdcbd5ca760\_j0Hx0IFmCDFRozgGRA0vT6YKYo2IPSxOLPGIQRWhQcZ6-skht9Sly_SjUBesxbIsNxuoZaYj55FNhZHOo465-uwsR-SSkj4djkSV0UHatoGzwjXbACNPFShjjYk-5r3Y6562g7T8.png](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4e9df914547331f76de\_5f87dbe7fa21cbdcbd5ca760\_j0Hx0IFmCDFRozgGRA0vT6YKYo2IPSxOLPGIQRWhQcZ6-skht9Sly_SjUBesxbIsNxuoZaYj55FNhZHOo465-uwsR-SSkj4djkSV0UHatoGzwjXbACNPFShjjYk-5r3Y6562g7T8.png)
 
-### **Por que Fluir?**
+### **Por que Flow?**
 
 Flow é um novo blockchain construído para a próxima geração de aplicativos, jogos e ativos digitais que os alimentam. Os principais princípios de design que orientam o Flow são princípios centrados no consumidor e amigáveis ao desenvolvedor que tornaram essa rede blockchain altamente escalável o ecossistema ideal para grandes marcas globais como NBA, UFC, Ubisoft, Dr. Seuss e Warner Music Group.
 
