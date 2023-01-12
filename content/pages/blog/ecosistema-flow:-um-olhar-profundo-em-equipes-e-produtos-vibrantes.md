@@ -40,7 +40,7 @@ media:
     Instagram e Twitter.
 bottomSections:
   - type: FeaturedPostsSection
-    colors: colors-e
+    colors: colors-a
     elementId: ''
     showDate: true
     showAuthor: false
