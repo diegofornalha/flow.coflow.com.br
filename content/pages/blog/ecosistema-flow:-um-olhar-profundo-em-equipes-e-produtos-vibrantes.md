@@ -16,7 +16,7 @@ excerpt: >-
   Twitter.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Ecosystem Overview diegofornalha.png
   altText: Post thumbnail image
   caption: >-
     Crescimento significativo de desenvolvedores na plataforma, com um aumento
