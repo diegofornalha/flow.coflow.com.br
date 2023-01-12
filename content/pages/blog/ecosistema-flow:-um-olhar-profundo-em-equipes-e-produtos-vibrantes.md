@@ -29,7 +29,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
+  altText: 'Ecosistema Flow: um olhar profundo em equipes e produtos vibrantes'
 bottomSections: []
 metaDescription: null
 socialImage: null
