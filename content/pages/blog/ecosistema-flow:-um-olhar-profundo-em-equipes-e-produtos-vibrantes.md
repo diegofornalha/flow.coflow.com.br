@@ -28,7 +28,7 @@ featuredImage:
     Instagram e Twitter.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Ecosystem Overview diegofornalha.png
   altText: 'Ecosistema Flow: um olhar profundo em equipes e produtos vibrantes'
 bottomSections: []
 metaDescription: null
