@@ -39,7 +39,14 @@ media:
     tornando a blockchain de escolha para plataformas sociais populares como
     Instagram e Twitter.
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  Crescimento significativo de desenvolvedores na plataforma, com um aumento de
+  2,5 vezes no número de novos desenvolvedores implantando contratos na testnet
+  e uma taxa de crescimento mensal de 31% desde novembro de 2020. Além disso, o
+  impacto da Flow como parceira confiável para empresas estabelecidas e startups
+  digitais em sua entrada no espaço web3, e como a Flow está se tornando a
+  blockchain de escolha para plataformas sociais populares como Instagram e
+  Twitter.
 socialImage: /images/Ecosystem Overview diegofornalha.png
 ---
 Seguindo nossa primeira Assembleia da Flow, onde apresentamos nossas prioridades futuras e revisamos o crescimento de desenvolvedores, marcos tecnológicos e melhorias no protocolo principal do último ano, queremos fornecer uma visão mais profunda das equipes e produtos vibrantes que compõem o ecossistema da Flow.
