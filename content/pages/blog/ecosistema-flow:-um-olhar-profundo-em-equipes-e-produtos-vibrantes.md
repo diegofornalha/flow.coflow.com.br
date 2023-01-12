@@ -67,8 +67,7 @@ bottomSections:
         justifyContent: center
     title: Seasonal adventure
     subtitle: ''
-    posts:
-      - content/pages/blog/post-two.md
+    posts: []
 metaDescription: >-
   Crescimento significativo de desenvolvedores na plataforma, com um aumento de
   2,5 vezes no número de novos desenvolvedores implantando contratos na testnet
