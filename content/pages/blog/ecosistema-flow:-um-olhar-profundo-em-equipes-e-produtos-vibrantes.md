@@ -38,7 +38,39 @@ media:
     e startups digitais em sua entrada no espaço web3, e como a Flow está se
     tornando a blockchain de escolha para plataformas sociais populares como
     Instagram e Twitter.
-bottomSections: []
+bottomSections:
+  - type: FeaturedPostsSection
+    colors: colors-e
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: true
+    readMoreLinkLabel: Saiba Mais
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Seasonal adventure
+    subtitle: ''
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
 metaDescription: >-
   Crescimento significativo de desenvolvedores na plataforma, com um aumento de
   2,5 vezes no número de novos desenvolvedores implantando contratos na testnet
