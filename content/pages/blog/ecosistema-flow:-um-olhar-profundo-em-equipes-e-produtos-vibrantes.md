@@ -40,7 +40,7 @@ media:
     Instagram e Twitter.
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: /images/Ecosystem Overview diegofornalha.png
 ---
 Seguindo nossa primeira Assembleia da Flow, onde apresentamos nossas prioridades futuras e revisamos o crescimento de desenvolvedores, marcos tecnológicos e melhorias no protocolo principal do último ano, queremos fornecer uma visão mais profunda das equipes e produtos vibrantes que compõem o ecossistema da Flow.
 
