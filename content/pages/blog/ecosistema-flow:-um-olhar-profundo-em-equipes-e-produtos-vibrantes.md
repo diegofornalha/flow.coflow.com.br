@@ -93,8 +93,10 @@ Juntos, esses construtores têm impulsionado um aumento de ~700x no total de tra
 **Impacto:**
 Flow é o parceiro confiável para IP de empresas estabelecidas entrando no espaço web3, incluindo Ticketmaster, Mattel, Billboard, Dr. Seuss, CNN, Zigazoo e muitos outros a seguir.
 
-
 Flow está se tornando a blockchain de escolha para principais startups centradas em consumidores e nativas digitais, incluindo a plataforma de avatares Genies, que alcançou o status de unicórnio em abril de 2022, a empresa de brinquedos digitais Cryptoys, que se associou à Mattel para transformar personagens lendários em avatares jogáveis que podem ser vendidos como NFTs, e o desenvolvedor de jogos Joyride, que construiu dois dos maiores dapps em web3, com mais de 17 milhões de transações totais e mais de 1 milhão de usuários únicos.
 
-
 Plataformas sociais importantes como Instagram e Twitter agora oferecem suporte a Flow. Em 2022, Flow lançou um piloto com o Twitter para explorar um novo formato de tweet chamado NFT Tweet Tiles, com imagens maiores ao lado de detalhes como o título e o criador e um botão CTA visível
+
+
+
+Artigo completo original em inglês: https://flow.com/post/state-of-the-flow-ecosystem
