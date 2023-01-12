@@ -68,7 +68,7 @@ author: content/data/team/hilary-ouse.json
 ---
 Chainmonsters é um jogo desenvolvido pela B-Side Games. Um novo e emocionante jogo multiplayer e multiplataforma online, onde você captura, batalha, troca e compete com monstros digitais em uma experiência massiva de mundo aberto. O jogo está em desenvolvimento há mais de 3 anos e combina uma excelente experiência de jogo tradicional com recursos interessantes possibilitados pela integração com a Flow. Trajes, itens, monstros e muitos outros objetos especiais do jogo são todos NFTs pertencentes e controlados pelos usuários.
 
-### **Lançamento**
+**Lançamento**
 
 Os participantes tiveram a chance de reservar NFTs super raros e itens exclusivos, incluindo oportunidades de pegar a primeira edição cunhada de cada Chainmon (monstro) no jogo (por exemplo, número de série #1).
 
@@ -80,20 +80,18 @@ O ecossistema Flow foi desenvolvido pelo programa *Flow Alpha* há quase um ano.
 
 Quando um usuário inicia nosso jogo, ele pode começar a jogar imediatamente, sem precisar de nenhum conhecimento sobre. Eles têm uma conta anônima criada em segundo plano e, uma vez que decidam continuar jogando e assumir total responsabilidade por seus ativos digitais ganhos, podem reivindicar o controle total de sua conta sem problemas. Isso é feito facilmente, sem excesso de engenharia, graças ao suporte multi sig que o Flow oferece por padrão. Sempre foi importante para nós encontrar o equilíbrio certo entre facilidade de acesso, jogabilidade altamente envolvente e propriedade de ativos digitais descentralizada.
 
-### &#xA;**Qual é a proposta do time?**
+**Qual é a proposta do time?**
 
 A equipe passou mais de 3 anos construindo e projetando cada detalhe deste jogo. Até o momento da escrita desse artigo, já foi desenvolvido cerca de 70% de roadmap, já estando prontas as mecânicas de jogo, criamos parcerias de longo prazo e projetamos nossa visão de como uma verdadeira economia voltada para o jogador deve ser em grande escala. O projeto não é como os tipicamente desenvolvidos e o Kickstarter já foi lançado. Chainmonsters será um dos primeiros jogos MMORPG (multiplayer massivos multiplataforma) habilitados para blockchain em uma transição para a Web2.
 
-### &#xA;**Jogabilidade e NFTs**
+**Jogabilidade e NFTs**
 
 Os jogadores estão embarcando em uma jornada épica enquanto estão conectados a essa rede o tempo inteiro. Cada Chainmon, item e ativo digital vive e respira no Flow.
 
 No jogo, você pode capturar um total de 135 Chainmons únicos, mas nem todos são criados iguais. Valores individuais como estatísticas, características e mutações definem a força de seus monstros! Além disso, cada Chainmon se distingue pelos números de série, determinados pela ordem de captura pelos jogadores globalmente, e vem em 3 variações visuais diferentes:
 
 *   Normal
-
 *   Sombra
-
 *   Cristal
 
 A variação do Cristal esteve disponível apenas durante a campanha do Kickstarter e se diferencia por meio de um efeito visual único e exclusivo. Haverá apenas 600 Crystal Chainmons no total em todo o jogo, tornando-os altamente procurados por raros NFTs colecionáveis.
@@ -124,7 +122,7 @@ Abaixo, você encontrará níveis em destaque da campanha de financiamento colet
 
 *   Estátua do Clube do Fundador
 
-Os* Crystal* *Chainmons* estão profundamente conectados à história do jogo, mas não têm nenhuma vantagem de quebrar o jogo. Em vez disso, eles são colecionáveis super raros - apenas 600 existirão! - e tem um efeito visual único que os diferencia de todos os outros!
+Os\* Crystal\* *Chainmons* estão profundamente conectados à história do jogo, mas não têm nenhuma vantagem de quebrar o jogo. Em vez disso, eles são colecionáveis super raros - apenas 600 existirão! - e tem um efeito visual único que os diferencia de todos os outros!
 
 **Agente Especial - Doação de 1500 EUR**
 
@@ -157,18 +155,12 @@ Os 100 principais contribuidores receberão um Token de Fundador especial exclus
 **Símbolo do Fundador**
 
 *   Este token concede ao proprietário um aumento permanente de XP de 2,5% para o nível do jogador, passe de temporada e Chainmons
-
 *   Apenas um token de fundador pode estar ativo por jogador
-
 *   Ele escala com todos os outros modificadores de XP, por exemplo, aumentos de XP baseados em eventos
-
 *   Coloca um emblema em seu perfil que prova a todos que você é um dos nossos primeiros apoiadores
-
 *   Não empilháveis
 
 Certifique-se de entrar no servidor da comunidade no [Discord](https://discord.gg/rWnB4fM) para conversar com outros jogadores e manter-se atualizado com nossa programação de lançamento!
-
-
 
 ![](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4e8df9145325f1f76d1\_5f87dbc0f52d302541d824a2\_P6Hu-Ol-\_RZgQIFOKDrn_aZ4m3ooKJX0JbfbmIjvkHS13BzLd-uSiHjVj1HKuQrMXTfYeccyDJcG5gyajLpp72t7se0EW4p\_7UryrdMpJucRV3JC_Oa1-qSn9WF0ey4yOfse064Z.png)
 
