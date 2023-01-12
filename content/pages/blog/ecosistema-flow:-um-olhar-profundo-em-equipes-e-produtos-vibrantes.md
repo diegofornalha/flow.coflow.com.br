@@ -17,7 +17,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Ecosystem Overview diegofornalha.png
-  altText: Post thumbnail image
+  altText: 'Ecosistema Flow: um olhar profundo em equipes e produtos vibrantes'
   caption: >-
     Crescimento significativo de desenvolvedores na plataforma, com um aumento
     de 2,5 vezes no número de novos desenvolvedores implantando contratos na
