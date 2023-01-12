@@ -22,12 +22,21 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Seguindo nossa primeira Assembleia da Flow, onde apresentamos nossas prioridades futuras e revisamos o crescimento de desenvolvedores, marcos tecnológicos e melhorias no protocolo principal do último ano, queremos fornecer uma visão mais profunda das equipes e produtos vibrantes que compõem o ecossistema da Flow.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+**Principais conclusões**
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Crescimento de desenvolvedores:
+2022 foi um grande ano para construtores da Flow. Nos últimos 12 meses, vimos 2,5 vezes mais novos desenvolvedores implantando contratos na testnet e a Biblioteca de Clientes Flow foi baixada 630 mil vezes (2x em comparação com o ano anterior). Desde novembro de 2020, o número de desenvolvedores entrando no ecossistema da Flow aumentou em média 31% mês a mês. Temos mais de 11.000 desenvolvedores (medidos pelo número cumulativo de contas de testnet) construindo mais de 2.600 contratos inteligentes vivos na Flow hoje.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+**Crescimento de rede:**
+Juntos, esses construtores têm impulsionado um aumento de ~700x no total de transações e um aumento de ~600x em contas na Flow desde novembro de 2020, para mais de 300 milhões de transações totais e 17,5 milhões de contas totais hoje.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**Impacto:**
+Flow é o parceiro confiável para IP de empresas estabelecidas entrando no espaço web3, incluindo Ticketmaster, Mattel, Billboard, Dr. Seuss, CNN, Zigazoo e muitos outros a seguir.
+
+
+Flow está se tornando a blockchain de escolha para principais startups centradas em consumidores e nativas digitais, incluindo a plataforma de avatares Genies, que alcançou o status de unicórnio em abril de 2022, a empresa de brinquedos digitais Cryptoys, que se associou à Mattel para transformar personagens lendários em avatares jogáveis que podem ser vendidos como NFTs, e o desenvolvedor de jogos Joyride, que construiu dois dos maiores dapps em web3, com mais de 17 milhões de transações totais e mais de 1 milhão de usuários únicos.
+
+
+Plataformas sociais importantes como Instagram e Twitter agora oferecem suporte a Flow. Em 2022, Flow lançou um piloto com o Twitter para explorar um novo formato de tweet chamado NFT Tweet Tiles, com imagens maiores ao lado de detalhes como o título e o criador e um botão CTA visível
