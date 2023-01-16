@@ -30,4 +30,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: 'Se estiver com algum problema, siga esse passo a passo.'
 ---
