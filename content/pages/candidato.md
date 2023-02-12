@@ -12,7 +12,6 @@ sections:
     variant: variant-a
     title: PROGRAMA ADVOCATES
     text: >
-
       A Emerald Brasil é uma comunidade virtual avançada e em constante
       evolução, que vislumbra um futuro promissor para a internet. Aqui, as
       possibilidades são infinitas e a inovação é uma parte fundamental da nossa
@@ -52,7 +51,7 @@ sections:
       similares às dos candidatos aprovados no cargo de representante federal,
       além de palestras ministradas por profissionais da área e conteúdos
       exclusivos para os advocates. Ao final do treinamento, os melhores
-      participantes terão a chance de serem selecionados para a Emerald Brasil.
+      participantes terão a chance de ser selecionados para a Emerald Brasil.
 
 
       Caso você tenha 7 NFTs de esmeraldas da nossa coleção, você já está apto e
@@ -67,7 +66,6 @@ sections:
 
 
       <https://floats.city/diego.find/group/coflow>
-
 
 
       As vagas são limitadas, então não perca tempo!
