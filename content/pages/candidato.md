@@ -10,7 +10,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: candidato
+    title: PROGRAMA ADVOCATES
     text: >
 
       A Emerald Brasil é uma comunidade virtual avançada e em constante
